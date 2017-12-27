@@ -55,7 +55,7 @@ namespace StatusCryptoval
                         Console.WriteLine("Unable to get te price of " + wallet.Tables[0].Rows[i][1] + " insert or skip");
                         json = Console.ReadLine();
                         int.TryParse(json, out n);
-                        if (json != "")
+                        if (json != "")  
                             wallet.Tables[0].Rows[i][3] = json;
                     }
                 }
