@@ -1,0 +1,8 @@
+c:\users\calogero.sireci\documents\visual studio 2015\Projects\StatusCryptoval\StatusCryptoval\bin\Debug\StatusCryptoval.exe.config
+c:\users\calogero.sireci\documents\visual studio 2015\Projects\StatusCryptoval\StatusCryptoval\bin\Debug\StatusCryptoval.exe
+c:\users\calogero.sireci\documents\visual studio 2015\Projects\StatusCryptoval\StatusCryptoval\bin\Debug\StatusCryptoval.pdb
+c:\users\calogero.sireci\documents\visual studio 2015\Projects\StatusCryptoval\StatusCryptoval\obj\Debug\StatusCryptoval.csprojResolveAssemblyReference.cache
+c:\users\calogero.sireci\documents\visual studio 2015\Projects\StatusCryptoval\StatusCryptoval\obj\Debug\StatusCryptoval.exe
+c:\users\calogero.sireci\documents\visual studio 2015\Projects\StatusCryptoval\StatusCryptoval\obj\Debug\StatusCryptoval.pdb
+c:\users\calogero.sireci\documents\visual studio 2015\Projects\StatusCryptoval\StatusCryptoval\bin\Debug\Newtonsoft.Json.dll
+c:\users\calogero.sireci\documents\visual studio 2015\Projects\StatusCryptoval\StatusCryptoval\bin\Debug\Newtonsoft.Json.xml
